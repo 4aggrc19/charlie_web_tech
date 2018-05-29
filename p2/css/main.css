@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {text-align: center
+    
+}
+
+h2 {font-size: 15px;
+    text-align: center;
+}
+
+article {
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin-left: 2%;
+}
+
+#content {
+    background-color: dimgray;
+    padding: 1% 1% 0% 1%;
+    font-family: fantasy, Helvetica, sans-serif;
+    float: left;
+    
+}
+
+.first {
+    color: green;
+}
+
+nav {
+    background-color: yellow;
+}
+
+nav ul {
+    background-color: red;
+    width: 20%;
+    margin: 0 auto;
+}
+
+nav ul li{
+    display: inline ;
+    background-color: orange;
+}
+
+.purple {
+    background-color: purple;
+}
