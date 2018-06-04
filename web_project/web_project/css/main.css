@@ -6,7 +6,8 @@
 header {
   background-color: #222;
   display: block;
-  padding: 10px;
+  padding: 25px 0px 0px 25px;
+  border-bottom-style: ridge;
 }
 
 nav ul li {
@@ -26,4 +27,14 @@ nav a:hover {
   color: #f55a6d;
 }
 body {background-color: #303130;
+}
+
+
+ h1 {
+  color: #ffffff;
+  font-weight: 300;
+  padding: 25px;
+  font-family: sans-serif;
+  text-align: center;
+  font-style: italic;
 }
