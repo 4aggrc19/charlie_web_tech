@@ -1,47 +1,30 @@
-html, body {
+*{
   margin: 0;
-  padding: 0;
-  height: 100%;
-  width: 100%;
+  padding:0;
 }
 
-header{
-  
-}
-
-.logo{
-  float: left;
-  padding-left: 2%;
-  padding-top: 2%;
-}
-
-nav {
-  width: 100%;
-  height: 100px;
-  
-}
-
-nav ul {
-  
+header {
+  background-color: #222;
+  display: block;
 }
 
 nav ul li {
-  list-style: none;
-  display: inline-block;
-  /*float: left;*/
-  line-height: 100PX;
-
+    display: inline-block;
+    margin-left: 10%;
 }
 
 nav ul li a {
   text-decoration: none;
-  font-size: 20px;
-  font-family: arial;
-  color: #1e1e1e;
-  margin-left: 70px;
+  color: #ffffff;
+  font-family: sans-serif;
   text-transform: uppercase;
+
 }
 
 nav a:hover {
-  color: #fb656c;
+  color: #f55a6d;
+}
+
+.logo {
+  margin:100 0 0 0;
 }
