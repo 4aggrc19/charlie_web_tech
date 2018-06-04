@@ -28,9 +28,9 @@ nav ul {
 nav ul li {
   list-style: none;
   display: inline-block;
-  float: left;
+  /*float: left;*/
   line-height: 100PX;
-  
+
 }
 
 nav ul li a {
@@ -39,4 +39,9 @@ nav ul li a {
   font-family: arial;
   color: #1e1e1e;
   margin-left: 70px;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #fb656c;
 }
