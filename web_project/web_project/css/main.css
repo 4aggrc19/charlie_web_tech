@@ -30,11 +30,15 @@ body {background-color: #303130;
 }
 
 
- h1 {
+.heading1 {
   color: #ffffff;
-  font-weight: 300;
+  font-weight: 200;
   padding: 25px;
   font-family: sans-serif;
   text-align: center;
   font-style: italic;
+}
+
+#iphone_image{
+ 
 }
