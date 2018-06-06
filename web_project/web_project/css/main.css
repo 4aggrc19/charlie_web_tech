@@ -37,8 +37,18 @@ body {background-color: #303130;
   font-family: sans-serif;
   text-align: center;
   font-style: italic;
+
 }
 
-#iphone_image{
- 
+#about{
+  display: inline;
+  background-color: orange;
+  border: 3px;
+}
+
+
+#iphone_image {
+  float: right;
+}
+.about_box {
 }
